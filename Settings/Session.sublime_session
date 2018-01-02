@@ -402,6 +402,14 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/C/Users/gaben/Documents/Github/thinkspace/_config.yml",
+					"settings":
+					{
+						"buffer_size": 1572,
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "",
 			"command_palette":
@@ -683,8 +691,37 @@
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/gaben/Documents/Github/thinkspace/_config.yml",
+							"settings":
+							{
+								"buffer_size": 1572,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1310,
+										1310
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/YAML/YAML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 540.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -719,7 +756,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,2,3,-32000,-32000,-1,-1,768,0,0,1366",
+			"position": "0,2,3,-1,-1,-1,-1,768,0,0,1366",
 			"replace":
 			{
 				"height": 62.0
