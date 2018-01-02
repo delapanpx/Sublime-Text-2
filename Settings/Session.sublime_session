@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/C/writing",
 		"/Z/Dropbox/Writing",
 		"/C/Users/Gaben/Documents/GitHub/thinkspace",
 		"/C/Users/Gaben/Documents/GitHub/online-cv",
@@ -718,7 +719,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,2,3,-32000,-32000,-1,-1,768,0,0,1366",
+			"position": "0,2,3,-1,-1,-1,-1,768,0,0,1366",
 			"replace":
 			{
 				"height": 62.0
@@ -747,13 +748,15 @@
 			"side_bar_width": 253.0,
 			"status_bar_visible": true,
 			"window_id": 12,
-			"workspace_name": ""
+			"workspace_name": "/C/writing/writing.sublime-project"
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/C/writing/writing.sublime-project",
+			"/C/Users/gaben/Documents/writing/writing-sublime.sublime-project",
 			"/Z/Dropbox/Writing/writing-sublime.sublime-project",
 			"/C/Users/Gaben/Documents/GitHub/_Sublime-text-project/thinkspace/main.sublime-project",
 			"/C/Users/Gaben/Documents/GitHub/_Sublime-text-project/delapanpxcom/.delapanpxcom.sublime-project",
