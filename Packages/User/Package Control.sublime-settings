@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Emmet",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Sass",
+		"SCSS Snippets"
+	]
+}

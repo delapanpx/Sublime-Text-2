@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[---
+layout: post
+title: ..
+description: ".."
+cover: /assets/images/..
+---]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ph1</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>text.md</scope> -->
+</snippet>
