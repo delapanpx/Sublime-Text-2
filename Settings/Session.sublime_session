@@ -401,14 +401,6 @@
 			},
 			"buffers":
 			[
-				{
-					"file": "/C/Users/Gaben/AppData/Roaming/Sublime Text 2/README.md",
-					"settings":
-					{
-						"buffer_size": 24,
-						"line_ending": "Unix"
-					}
-				}
 			],
 			"build_system": "",
 			"command_palette":
@@ -416,6 +408,10 @@
 				"height": 392.0,
 				"selected_items":
 				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
 					[
 						"snipp",
 						"Snippet: Lorem ipsum"
@@ -449,10 +445,6 @@
 						"Markdown Preview: Preview in Browser"
 					],
 					[
-						"Package Control: ",
-						"Package Control: Install Package"
-					],
-					[
 						"previe",
 						"Markdown Preview: Preview in Browser"
 					],
@@ -469,7 +461,7 @@
 						"Set Syntax: MultiMarkdown"
 					]
 				],
-				"width": 512.0
+				"width": 400.0
 			},
 			"console":
 			{
@@ -486,6 +478,7 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/README.md",
 				"/Z/Dropbox/Writing/Write/Bahkan Sendalpun Mereka Tak Modal.md",
 				"/Z/Dropbox/Writing/Write/Setelah Membaca Gadis Kretek.cml",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/drafts/history-whatsapp-dari-iphone-ke-android.md",
@@ -612,8 +605,7 @@
 				"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/tentang.md",
 				"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/_posts/2016-10-18-very-long-title-post.md",
 				"/C/writemonkey3/themes/wm-pitch-black.css",
-				"/C/Users/Gaben/Desktop/undangan nabil/photo_2017-12-02_20-53-15.jpg",
-				"/C/Users/Gaben/Downloads/writemonkey3/README.md"
+				"/C/Users/Gaben/Desktop/undangan nabil/photo_2017-12-02_20-53-15.jpg"
 			],
 			"find":
 			{
@@ -690,35 +682,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/C/Users/Gaben/AppData/Roaming/Sublime Text 2/README.md",
-							"settings":
-							{
-								"buffer_size": 24,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										23,
-										23
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/MarkdownEditing/Markdown (Standard).tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -753,7 +718,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,2,3,-1,-1,-1,-1,768,0,0,1366",
+			"position": "0,2,3,-32000,-32000,-1,-1,768,0,0,1366",
 			"replace":
 			{
 				"height": 62.0
@@ -782,7 +747,7 @@
 			"side_bar_width": 253.0,
 			"status_bar_visible": true,
 			"window_id": 12,
-			"workspace_name": "/Z/Dropbox/Writing/writing-sublime.sublime-project"
+			"workspace_name": ""
 		}
 	],
 	"workspaces":
