@@ -435,6 +435,7 @@
 			"buffers":
 			[
 				{
+<<<<<<< HEAD
 					"file": "/C/Users/Gaben/Documents/GitHub/jekyll-theme-kagami/Gemfile",
 					"settings":
 					{
@@ -447,6 +448,12 @@
 					"settings":
 					{
 						"buffer_size": 0,
+=======
+					"file": "/C/Users/gaben/Documents/Github/thinkspace/_config.yml",
+					"settings":
+					{
+						"buffer_size": 1572,
+>>>>>>> 1b67f617e500e77f6e4e243d57768488152ff230
 						"line_ending": "Windows"
 					}
 				}
@@ -527,11 +534,16 @@
 			},
 			"file_history":
 			[
+<<<<<<< HEAD
 				"/C/Users/Gaben/Documents/GitHub/sparrow/Gemfile",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/base/_typography.scss",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/_variables.scss",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-12-11-beralih-ke-jekyll.md",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-04-25-history-whatsapp-dari-iphone-ke-android.md",
+=======
+				"/C/Users/gaben/Documents/Github/thinkspace/_config.yml",
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/README.md",
+>>>>>>> 1b67f617e500e77f6e4e243d57768488152ff230
 				"/Z/Dropbox/Writing/Write/Bahkan Sendalpun Mereka Tak Modal.md",
 				"/Z/Dropbox/Writing/Write/Setelah Membaca Gadis Kretek.cml",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/drafts/history-whatsapp-dari-iphone-ke-android.md",
@@ -742,22 +754,35 @@
 					[
 						{
 							"buffer": 0,
+<<<<<<< HEAD
 							"file": "/C/Users/Gaben/Documents/GitHub/jekyll-theme-kagami/Gemfile",
 							"settings":
 							{
 								"buffer_size": 65,
+=======
+							"file": "/C/Users/gaben/Documents/Github/thinkspace/_config.yml",
+							"settings":
+							{
+								"buffer_size": 1572,
+>>>>>>> 1b67f617e500e77f6e4e243d57768488152ff230
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
+<<<<<<< HEAD
 										38,
 										38
+=======
+										1310,
+										1310
+>>>>>>> 1b67f617e500e77f6e4e243d57768488152ff230
 									]
 								],
 								"settings":
 								{
+<<<<<<< HEAD
 									"syntax": "Packages/Ruby/Ruby.tmLanguage"
 								},
 								"translation.x": 0.0,
@@ -785,9 +810,14 @@
 								"settings":
 								{
 									"syntax": "Packages/YAML/YAML.tmLanguage"
+=======
+									"syntax": "Packages/YAML/YAML.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+>>>>>>> 1b67f617e500e77f6e4e243d57768488152ff230
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 540.0,
 								"zoom_level": 1.0
 							},
 							"type": "text"
@@ -854,7 +884,11 @@
 			"side_bar_visible": true,
 			"side_bar_width": 253.0,
 			"status_bar_visible": true,
+<<<<<<< HEAD
 			"window_id": 15,
+=======
+			"window_id": 12,
+>>>>>>> 1b67f617e500e77f6e4e243d57768488152ff230
 			"workspace_name": ""
 		}
 	],
