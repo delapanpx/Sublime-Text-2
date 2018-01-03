@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/C/Users/Gaben/Documents/GitHub/minimal-blog-rsms",
 		"/C/writing",
 		"/Z/Dropbox/Writing",
 		"/C/Users/Gaben/Documents/GitHub/thinkspace",
@@ -8,7 +9,7 @@
 		"/C/Users/Gaben/Documents/GitHub/8px-Service",
 		"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io"
 	],
-	"last_window_id": 13,
+	"last_window_id": 15,
 	"settings":
 	{
 		"new_window_height": 710.0,
@@ -18,6 +19,10 @@
 			{
 				"selected_items":
 				[
+					[
+						"fo",
+						"font-size"
+					],
 					[
 						"bl",
 						"block"
@@ -55,6 +60,34 @@
 				"selected_items":
 				[
 					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"snipp",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Markdown Image"
+					],
+					[
+						"pre",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"preview",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"markdow",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
 						"ins",
 						"Package Control: Install Package"
 					],
@@ -63,20 +96,8 @@
 						"Markdown Preview: Preview in Browser"
 					],
 					[
-						"Package Control: ",
-						"Package Control: Install Package"
-					],
-					[
 						"previe",
 						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"preview",
-						"Markdown Preview: Preview in Browser"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"spell ",
@@ -91,7 +112,7 @@
 						"Set Syntax: MultiMarkdown"
 					]
 				],
-				"width": 512.0
+				"width": 400.0
 			},
 			"console":
 			{
@@ -108,46 +129,65 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/_variables.scss",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/main.scss",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/_costum.scss",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-02-05-gerbong-khusus-wanita.md",
+				"/C/Users/Gaben/Documents/GitHub/minimal-blog-rsms/Gemfile",
+				"/C/Users/Gaben/Documents/GitHub/minimal-blog-rsms/_config.yml",
+				"/C/Users/Gaben/Documents/GitHub/minimal-blog-rsms/_posts/2009-09-16-fb-desknotif-analysis.html",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/Gemfile",
+				"/C/writing/Notes/malas-pindah-ke-linux.md",
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/README.md",
+				"/Z/Dropbox/Writing/Write/Bahkan Sendalpun Mereka Tak Modal.md",
+				"/Z/Dropbox/Writing/Write/Setelah Membaca Gadis Kretek.cml",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/drafts/history-whatsapp-dari-iphone-ke-android.md",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/pages/about.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-12-21-time-100-photos-of-2017.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/README.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_includes/head.html",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_includes/comments.html",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/_config.yml",
+				"/Z/Documents/Documents/Writing/Write/_review_olympus_xa4_untuk_str.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-10-26-saya-dan-fotografi.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/drafts/jekyll-itu-gue-banget.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/drafts/mengapa-kamu-perlu-membeli-kamera-bekas.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-12-11-beralih-ke-jekyll.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/_costum.scss",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/review-iphone-5-untuk-street-photography.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2016-07-30-tips-fotografi-dengan-smartphone-ketika-melakukan-perjalanan.md",
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/Packages/User/postheader1.sublime-snippet",
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/Packages/User/postheader.sublime-snippet",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/apa-itu-24-hour-project.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2016-08-01-setelah-beberapa-bulan-memotret-dengan-smartphone.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2016-07-25-mudik-lebaran-2016-yang-fenomenal.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2016-08-10-megapiksel-bukan-segalanya.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2016-12-03-review-iphone-5-untuk-street-photography.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-01-03-review-canon-s95-untuk-street-photography.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-12-10-kapan-saya-harus-berhenti-memotret.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/index.html",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-12-12-ketika-banjir-dijadikan-alat-politik.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-02-05-gerbong-khusus-wanita.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_includes/footer.html",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-07-27-saya-hanyalah-penikmat-kopi-murah.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_includes/intro.html",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_includes/post-share.html",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/base/_typography.scss",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/_includes/nav.html",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/_variables.scss",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/_layout.scss",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-12-21-time-100-photos-of-2017.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/404.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_layouts/post.html",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_includes/image-post.html",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/_syntax-highlighting.scss",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/main.scss",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/README.md",
 				"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/README.md",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/_includes/image.html",
 				"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/_includes/header.html",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_includes/head.html",
 				"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/_includes/head.html",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-12-11-beralih-ke-jekyll.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-12-10-kapan-saya-harus-berhenti-memotret.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-10-26-saya-dan-fotografi.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-07-27-saya-hanyalah-penikmat-kopi-murah.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-01-03-review-canon-s95-untuk-street-photography.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-12-12-ketika-banjir-dijadikan-alat-politik.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2016-07-25-mudik-lebaran-2016-yang-fenomenal.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2016-12-03-review-iphone-5-untuk-street-photography.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2016-07-30-tips-fotografi-dengan-smartphone-ketika-melakukan-perjalanan.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2016-08-01-setelah-beberapa-bulan-memotret-dengan-smartphone.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2016-08-10-megapiksel-bukan-segalanya.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_includes/post-share.html",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/index.html",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/pages/projects.md",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/pages/24-hour-project.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/Gemfile",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2016-06-10-how-to-download-or-use-this-theme.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/_layout.scss",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/base/_typography.scss",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/about.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_includes/intro.html",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/404.md",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/robots.txt",
 				"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/robots.txt",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/pages/404.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_includes/footer.html",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/css/main.scss",
 				"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/CNAME",
 				"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/_config.yml",
@@ -216,20 +256,7 @@
 				"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/_posts/2016-08-10-megapiksel-bukan-segalanya.md",
 				"/Z/Documents/Documents/Writing/Read/Saya hanyalah penikmat kopi murah.md",
 				"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/_sass/syntax.scss",
-				"/Z/Documents/Documents/Writing/Read/Pacaran di Jakarta.md",
-				"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/tentang.md",
-				"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/_posts/2016-10-18-very-long-title-post.md",
-				"/C/writemonkey3/themes/wm-pitch-black.css",
-				"/C/Users/Gaben/Desktop/undangan nabil/photo_2017-12-02_20-53-15.jpg",
-				"/C/Users/Gaben/Downloads/writemonkey3/README.md",
-				"/Z/Documents/Music/Playlist/winamp.xml",
-				"/Z/Software/Adobe Photoshop Lightroom 5.6 Final (64 bit) [ChingLiu]/ChingLiu.Install.Notes.nfo",
-				"/Z/Documents/Videos/New/Corpse Bride (2005) [1080p]/english.srt",
-				"/C/Users/Gaben/Dropbox/documents/delapanpx.blogspot.co.id/blog-08-26-2017.xml",
-				"/Z/Documents/Downloads/Documents/Gratis Gatotkaca.html",
-				"/Z/Documents/Downloads/Documents/craft-12/Craft - V1.2/Craft Templates/Craft Notify 3/HTML _ None/index.html",
-				"/C/Program Files (x86)/Steam/steamapps/common/Call of Duty 4/Mods/PeZBOT/pezbot.cfg",
-				"/Z/Documents/Videos/New/Corpse Bride (2005) [1080p]/Corpse.Bride.2005.1080p.BrRip.x264.BOKUTOX.YIFY.srt"
+				"/Z/Documents/Documents/Writing/Read/Pacaran di Jakarta.md"
 			],
 			"find":
 			{
@@ -247,6 +274,11 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"title2",
+					"{{ site.title2 }}",
+					".post-item",
+					"lead",
+					".post-title",
 					"yang memudahkan",
 					"img",
 					"icon",
@@ -344,11 +376,11 @@
 			},
 			"select_project":
 			{
-				"height": 0.0,
+				"height": 500.0,
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 380.0
 			},
 			"show_minimap": true,
 			"show_open_files": false,
@@ -403,10 +435,18 @@
 			"buffers":
 			[
 				{
-					"file": "Notes/malas-pindah-ke-linux.md",
+					"file": "/C/Users/Gaben/Documents/GitHub/jekyll-theme-kagami/Gemfile",
 					"settings":
 					{
-						"buffer_size": 227,
+						"buffer_size": 65,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Gaben/Documents/GitHub/jekyll-theme-kagami/_config.yml",
+					"settings":
+					{
+						"buffer_size": 0,
 						"line_ending": "Windows"
 					}
 				}
@@ -417,10 +457,6 @@
 				"height": 392.0,
 				"selected_items":
 				[
-					[
-						"Package Control: ",
-						"Package Control: Install Package"
-					],
 					[
 						"snipp",
 						"Snippet: Lorem ipsum"
@@ -454,6 +490,10 @@
 						"Markdown Preview: Preview in Browser"
 					],
 					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
 						"previe",
 						"Markdown Preview: Preview in Browser"
 					],
@@ -470,7 +510,7 @@
 						"Set Syntax: MultiMarkdown"
 					]
 				],
-				"width": 400.0
+				"width": 512.0
 			},
 			"console":
 			{
@@ -487,7 +527,11 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/README.md",
+				"/C/Users/Gaben/Documents/GitHub/sparrow/Gemfile",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/base/_typography.scss",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/_variables.scss",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-12-11-beralih-ke-jekyll.md",
+				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-04-25-history-whatsapp-dari-iphone-ke-android.md",
 				"/Z/Dropbox/Writing/Write/Bahkan Sendalpun Mereka Tak Modal.md",
 				"/Z/Dropbox/Writing/Write/Setelah Membaca Gadis Kretek.cml",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/drafts/history-whatsapp-dari-iphone-ke-android.md",
@@ -499,7 +543,6 @@
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-10-26-saya-dan-fotografi.md",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/drafts/jekyll-itu-gue-banget.md",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/drafts/mengapa-kamu-perlu-membeli-kamera-bekas.md",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-12-11-beralih-ke-jekyll.md",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/_costum.scss",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/review-iphone-5-untuk-street-photography.md",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2016-07-30-tips-fotografi-dengan-smartphone-ketika-melakukan-perjalanan.md",
@@ -519,9 +562,7 @@
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-07-27-saya-hanyalah-penikmat-kopi-murah.md",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/_includes/intro.html",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/_includes/post-share.html",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/base/_typography.scss",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/_includes/nav.html",
-				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/_variables.scss",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/assets/scss/_layout.scss",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/_posts/2017-12-21-time-100-photos-of-2017.md",
 				"/C/Users/Gaben/Documents/GitHub/thinkspace/404.md",
@@ -613,8 +654,7 @@
 				"/Z/Documents/Documents/Writing/Read/Pacaran di Jakarta.md",
 				"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/tentang.md",
 				"/C/Users/Gaben/Documents/GitHub/delapanpx.github.io/_posts/2016-10-18-very-long-title-post.md",
-				"/C/writemonkey3/themes/wm-pitch-black.css",
-				"/C/Users/Gaben/Desktop/undangan nabil/photo_2017-12-02_20-53-15.jpg"
+				"/C/writemonkey3/themes/wm-pitch-black.css"
 			],
 			"find":
 			{
@@ -688,31 +728,63 @@
 				"whole_word": true,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/C/Users/Gaben/Documents/GitHub/minimal-blog-rsms"
+				}
+			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "Notes/malas-pindah-ke-linux.md",
+							"file": "/C/Users/Gaben/Documents/GitHub/jekyll-theme-kagami/Gemfile",
 							"settings":
 							{
-								"buffer_size": 227,
+								"buffer_size": 65,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										226,
-										226
+										38,
+										38
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/MarkdownEditing/Markdown (Standard).tmLanguage"
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Gaben/Documents/GitHub/jekyll-theme-kagami/_config.yml",
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/YAML/YAML.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -754,7 +826,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,2,3,-1,-1,-1,-1,768,0,0,1366",
+			"position": "0,2,3,-1,-1,-1,-1,769,0,0,1366",
 			"replace":
 			{
 				"height": 62.0
@@ -782,18 +854,18 @@
 			"side_bar_visible": true,
 			"side_bar_width": 253.0,
 			"status_bar_visible": true,
-			"window_id": 12,
-			"workspace_name": "/C/writing/writing.sublime-project"
+			"window_id": 15,
+			"workspace_name": ""
 		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
+			"/C/Users/Gaben/Documents/GitHub/_Sublime-text-project/thinkspace/main.sublime-project",
 			"/C/writing/writing.sublime-project",
 			"/C/Users/gaben/Documents/writing/writing-sublime.sublime-project",
 			"/Z/Dropbox/Writing/writing-sublime.sublime-project",
-			"/C/Users/Gaben/Documents/GitHub/_Sublime-text-project/thinkspace/main.sublime-project",
 			"/C/Users/Gaben/Documents/GitHub/_Sublime-text-project/delapanpxcom/.delapanpxcom.sublime-project",
 			"/C/Users/Gaben/Documents/GitHub/Sublime-text-project/thinkspace/main.sublime-project",
 			"/C/Users/Gaben/Documents/GitHub/Sublime-text-project/delapanpxcom/.delapanpxcom.sublime-project",
