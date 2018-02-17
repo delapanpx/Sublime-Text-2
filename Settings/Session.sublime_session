@@ -179,59 +179,35 @@
 			{
 				"selected_items":
 				[
+					[
+						"mar",
+						"margin-bottom"
+					]
 				]
 			},
 			"buffers":
 			[
-				{
-					"file": "/C/Users/Gaben/Documents/Github/so-simple-theme/notes/index.md",
-					"settings":
-					{
-						"buffer_size": 589,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2016-07-30-tips-fotografi-dengan-smartphone-ketika-melakukan-perjalanan.md",
-					"settings":
-					{
-						"buffer_size": 6288,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/articles/2014-06-19-author-override.md",
-					"settings":
-					{
-						"buffer_size": 1376,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2017-04-25-history-whatsapp-dari-iphone-ke-android.md",
-					"settings":
-					{
-						"buffer_size": 5468,
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 357.0,
+				"height": 150.0,
 				"selected_items":
 				[
-					[
-						"previ",
-						"Markdown Preview: Preview in Browser"
-					],
 					[
 						"preview",
 						"Markdown Preview: Preview in Browser"
 					],
 					[
+						"copy",
+						"Markdown Preview: Copy to Clipboard"
+					],
+					[
 						"previe",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"previ",
 						"Markdown Preview: Preview in Browser"
 					]
 				],
@@ -243,7 +219,7 @@
 			},
 			"distraction_free":
 			{
-				"menu_visible": true,
+				"menu_visible": false,
 				"show_minimap": false,
 				"show_open_files": false,
 				"show_tabs": false,
@@ -252,37 +228,106 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Gaben/Documents/Github/so-simple-theme/README.md",
-				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/Packages/User/postheader2.sublime-snippet",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/collections/2018-01-22-wes-anderson-soundtracks.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/collections/2018-01-10-playlist-januari-2018.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2018-01-09-moron-behind-the-camera.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2018-01-11-im-done-with-indonesia-youtube-trending.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/collections/2018-02-02-playlist-februari-2018.md",
 				"/C/Users/Gaben/Documents/Github/so-simple-theme/index.html",
-				"/C/Users/Gaben/Documents/Github/so-simple-theme/projects/index.md",
-				"/C/Users/Gaben/Documents/Github/so-simple-theme/_sass/_base.scss",
-				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/blog/2014-08-08-hello-world.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/about/index.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2017-12-11-beralih-ke-jekyll.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2018-01-25-duckduckgo-web-designers-cheat-sheets.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_sass/_variables.scss",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_sass/_page.scss",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/README.md",
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/Packages/User/figure3.sublime-snippet",
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/Packages/User/figure2.sublime-snippet",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2018-01-25-duckduckgo-web-sesigners-cheat-sheets.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2018-01-25-duckduckgo-cheat-sheet.md",
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/Packages/User/figure1.sublime-snippet",
 				"/C/Users/Gaben/Documents/Github/so-simple-theme/archives/index.md",
-				"/C/Users/Gaben/Documents/Github/so-simple-theme/essays/index.md",
-				"/C/Users/Gaben/Documents/Github/so-simple-theme/blog/index.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_includes/related.html",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/essays/2016-07-25-mudik-lebaran-2016-yang-fenomenal.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/collections/2018-01-23-reflex-amsterdam-books.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/collections/2010-06-12-foto-album-kuliah-2010.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/essays/2016-08-10-megapiksel-bukan-segalanya.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2016-08-01-setelah-beberapa-bulan-memotret-dengan-smartphone.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2017-10-26-saya-dan-fotografi.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/essays/2017-02-05-gerbong-khusus-wanita.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/essays/2017-07-27-saya-hanyalah-penikmat-kopi-murah.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/essays/2017-12-12-ketika-banjir-dijadikan-alat-politik.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/collections/2017-12-21-time-100-photos-of-2017.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2018-01-22-wes-anderson-soundtracks.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2018-01-23-reflex-amsterdam-books.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_includes/head.html",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/collections/2018-01-11-wajah-duren-tiga-project.md",
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/Packages/User/Markdown (Standard).sublime-settings",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_sass/_base.scss",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2017-04-25-transfer-history-whatsapp-dari-iphone-ke-android.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_sass/_archives.scss",
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+				"/C/writing/Write/Syair Kisah sang Rosul.md",
+				"/C/Users/Gaben/Downloads/American Pie - Reunion (2012)/American.Pie.Reunion.2012.Unrated.720p.BluRay.x264.YIFY.srt",
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/Packages/MarkdownEditing/MultiMarkdown.sublime-settings",
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/Packages/MarkdownEditing/Markdown.sublime-settings",
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/Packages/User/MultiMarkdown.sublime-settings",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_includes/social-share.html",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/Gemfile",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_config.yml",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_layouts/post.html",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_data/januaridelapanbelas.yml",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/essays/2017-12-10-kapan-saya-harus-berhenti-memotret.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_includes/related-post.html",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/package.json",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/collections/proyek-wajah-duren-tiga.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_includes/navigation.html",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/collections/2018-01-11-proyek-wajah-duren-tiga.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/essays/2017-01-11-im-done-with-indonesia-youtube-trending.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_data/navigation.yml",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_data/201801.yml",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/collections/index.md",
 				"/C/Users/Gaben/Documents/Github/so-simple-theme/_includes/open-graph.html",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/.nvmrc",
+				"/C/Users/Gaben/Documents/Github/thinkspace/_config.yml",
+				"/C/Users/Gaben/Documents/Github/thinkspace/Gemfile",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/LICENSE.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/LICENSE",
+				"/C/Users/Gaben/Documents/Github/thinkspace/LICENSE.md",
+				"/C/Users/Gaben/Documents/Github/thinkspace/feed.xml",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/recommendation/2016-12-03-iphone-5-untuk-street-photography.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/recommendation/2017-01-03-canon-s95-untuk-street-photography.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2016-07-30-tips-fotografi-dengan-smartphone-ketika-melakukan-perjalanan.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/README.html",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/essays/2017-10-26-saya-dan-fotografi.md",
+				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/Packages/User/postheader2.sublime-snippet",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/recommendation/index.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/notes/index.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/essays/index.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2017-12-21-time-100-photos-of-2017.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2017-01-03-review-canon-s95-untuk-street-photography.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/articles/2013-05-22-sample-post-images.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2017-12-12-ketika-banjir-dijadikan-alat-politik.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/articles/2014-06-19-author-override.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2017-04-25-history-whatsapp-dari-iphone-ke-android.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/projects/index.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/blog/2014-08-08-hello-world.md",
+				"/C/Users/Gaben/Documents/Github/so-simple-theme/blog/index.md",
 				"/C/Users/Gaben/Documents/Github/so-simple-theme/archives/index.html",
 				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/blog/2015-08-10-mathjax-example.md",
 				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/articles/2013-08-16-code-highlighting-post.md",
 				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/articles/2011-03-10-sample-post.md",
-				"/C/Users/Gaben/Documents/Github/so-simple-theme/_config.yml",
-				"/C/Users/Gaben/Documents/Github/so-simple-theme/_data/navigation.yml",
 				"/C/Users/Gaben/Documents/Github/so-simple-theme/_includes/footer.html",
-				"/C/Users/Gaben/Documents/Github/so-simple-theme/about/index.md",
 				"/C/Users/Gaben/AppData/Roaming/Sublime Text 2/Packages/User/postheader1.sublime-snippet",
 				"/C/Users/Gaben/Documents/Github/so-simple-theme/_data/authors.yml",
 				"/C/Users/Gaben/Documents/Github/so-simple-theme/404.md",
-				"/C/Users/Gaben/Documents/Github/so-simple-theme/_sass/_variables.scss",
-				"/C/Users/Gaben/Documents/Github/so-simple-theme/_includes/head.html",
 				"/C/Users/Gaben/Documents/Github/so-simple-theme/_layouts/page.html",
-				"/C/Users/Gaben/Documents/Github/so-simple-theme/_layouts/post.html",
 				"/C/Users/Gaben/Documents/Github/so-simple-theme/_layouts/default.html",
-				"/C/Users/Gaben/Documents/Github/so-simple-theme/Gemfile",
-				"/C/Users/Gaben/Documents/Github/so-simple-theme/_includes/navigation.html",
 				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/articles/2013-06-25-video-post.md",
 				"/C/Users/Gaben/Documents/Github/so-simple-theme/_sass/_navigation.scss",
-				"/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/articles/2014-06-19-author-override.md",
 				"/C/Users/Gaben/Documents/Github/overkyll-jekyll-theme/example/_config.yml",
 				"/C/Users/Gaben/Documents/Github/overkyll-jekyll-theme/index.md",
 				"/C/Users/Gaben/Documents/Github/overkyll-jekyll-theme/_config.yml",
@@ -308,6 +353,17 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"figure",
+					"Collections",
+					"images",
+					"post",
+					"entry",
+					"etx",
+					"<a href=\"https://farm5.staticflickr.com/4652/38899056834_b2cce58134_o_d.jpg\"><img src=\"https://farm5.staticflickr.com/4652/38899056834_b2cce58134_o_d.jpg\" alt=\"image\"></a>\n<a href=\"https://farm5.staticflickr.com/4697/38899056014_fe74000838_o_d.jpg\"><img src=\"https://farm5.staticflickr.com/4697/38899056014_fe74000838_o_d.jpg\" alt=\"image\"></a>\n<a href=\"https://farm5.staticflickr.com/4694/39607213571_baf81d7701_o_d.jpg\"><img src=\"https://farm5.staticflickr.com/4694/39607213571_baf81d7701_o_d.jpg\" alt=\"image\"></a>",
+					"image",
+					"toc",
+					"figcaption",
+					"image",
 					"jpg",
 					"your",
 					";\"",
@@ -331,118 +387,12 @@
 				{
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/C/Users/Gaben/Documents/Github/so-simple-theme/notes/index.md",
-							"settings":
-							{
-								"buffer_size": 589,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										165,
-										165
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/MarkdownEditing/Markdown (Standard).tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2016-07-30-tips-fotografi-dengan-smartphone-ketika-melakukan-perjalanan.md",
-							"settings":
-							{
-								"buffer_size": 6288,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										272,
-										272
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/MarkdownEditing/Markdown (Standard).tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/articles/2014-06-19-author-override.md",
-							"settings":
-							{
-								"buffer_size": 1376,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/MarkdownEditing/Markdown (Standard).tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/C/Users/Gaben/Documents/Github/so-simple-theme/_posts/notes/2017-04-25-history-whatsapp-dari-iphone-ke-android.md",
-							"settings":
-							{
-								"buffer_size": 5468,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2774,
-										2774
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/MarkdownEditing/Markdown (Standard).tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 35.0
 			},
 			"input":
 			{
@@ -471,7 +421,7 @@
 				]
 			},
 			"menu_visible": true,
-			"position": "0,2,3,-32000,-32000,-1,-1,565,26,26,682",
+			"position": "0,2,3,-1,-1,-1,-1,768,0,0,1366",
 			"replace":
 			{
 				"height": 0.0
@@ -497,7 +447,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 265.0,
+			"side_bar_width": 227.0,
 			"status_bar_visible": true,
 			"window_id": 3,
 			"workspace_name": "/C/Users/Gaben/Documents/Sublime Text Project/Blog So Simple/so-simple.sublime-project"

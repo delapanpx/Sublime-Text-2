@@ -3,13 +3,13 @@
 layout: post
 title: "..."
 excerpt: "..."
-categories: # blog/projects
+categories: 
 tags: [...]
 image:
-  feature: ... 
-  thumb: ... 
-  credit: ... 
-  creditlink: ... #url
+  feature: 
+  thumb: 
+  credit:  
+  creditlink: 
 comments: false
 share: true
 ---]]></content>

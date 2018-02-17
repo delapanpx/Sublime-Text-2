@@ -1,6 +1,29 @@
 {
+	"ensure_newline_at_eof_on_save": true,
 	"extensions":
 	[
-		"md"
-	]
+        "md",
+        "markdown",
+        "mdown"
+	],
+
+	//"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Focus.tmTheme",
+
+	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
+	// "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+	//"color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Yellow.tmTheme",
+
+	"draw_centered": true,
+	"word_wrap": true,
+	"wrap_width": 80,
+
+	"font_face": "consolas",
+
+	//"dictionary": "Packages/Language - English/en_US.dic",
+    "dictionary": "Packages/Language - Indonesia/id_ID.dic",
+
+    "spell_check": false,
+    //"spell_check": true,
+
+    "highlight_line": false	
 }

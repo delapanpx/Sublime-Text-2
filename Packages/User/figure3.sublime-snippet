@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<figure class="third">
+  <a href="..."><img src="..." alt="image"></a>
+  <a href="..."><img src="..." alt="image"></a>
+  <a href="..."><img src="..." alt="image"></a>
+  <figcaption>Caption</figcaption>
+</figure>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>figure3</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
